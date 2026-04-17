@@ -58,18 +58,19 @@
     "url": "https://mosa.to",
     "icon": "https://icons.duckduckgo.com/ip3/mosa.to.ico",
     "slug": "mosa-old",
-    "status": "up",
-    "uptime": "97.34%",
+    "status": "down",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
     "time": 125,
     "timeDay": 217,
     "timeWeek": 141,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2026-04-17": 0,
       "2026-03-20": 702,
       "2026-03-19": 386
     }
