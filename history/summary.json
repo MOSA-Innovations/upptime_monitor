@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 167,
-    "timeWeek": 213,
+    "timeWeek": 196,
     "timeMonth": 198,
     "timeYear": 212,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 341,
     "timeDay": 195,
-    "timeWeek": 730,
+    "timeWeek": 784,
     "timeMonth": 362,
     "timeYear": 341,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://www.workwithmosa.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.workwithmosa.com.ico",
     "slug": "mosa-works",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 240,
-    "timeWeek": 275,
-    "timeMonth": 434,
-    "timeYear": 299,
-    "dailyMinutesDown": {}
+    "time": 297,
+    "timeDay": 145,
+    "timeWeek": 228,
+    "timeMonth": 422,
+    "timeYear": 297,
+    "dailyMinutesDown": {
+      "2026-09-03": 0
+    }
   },
   {
     "name": "MOSA (old)",
